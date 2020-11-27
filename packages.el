@@ -8,7 +8,6 @@
     helm
     ;; helm-gtags
     xterm-color
-    popwin
     parinfer
     company
     rainbow-identifiers
